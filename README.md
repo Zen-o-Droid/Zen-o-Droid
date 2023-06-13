@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zen-o-Droid
-- 👀 I’m interested in DevOps, Machine Learning ( MLOps ) and Full Stack Development.
-- 🌱 I’m currently learning Jenkins and Ansible
+- 👀 I’m interested in DevOps and Full Stack Development.
+- 🌱 I’m currently learning JAVASCRIPT
 - 📫 How to reach me :- 
       https://www.linkedin.com/in/iezyogesh/
 
