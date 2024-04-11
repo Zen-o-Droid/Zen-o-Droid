@@ -1,6 +1,6 @@
 - 👋 Hi, I’m YOGESH 
-- 👀 I’m interested in DevOps and Full Stack Development.
-- 🌱 I’m currently learning JAVASCRIPT
+- 👀 I’m interested in DevOps and Python.
+- 🌱 I’m currently learning Django
 - 📫 How to reach me :- 
       https://www.linkedin.com/in/iezyogesh/
 
